@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Пепперони",
+        "description": "Сочная пицца с пепперони и сыром",
+        "price": 10.99,
+        "image": "https://static.pizzasushiwok.ru/images/menu_new/6t-1300.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Гавайская",
+        "description": "Аппетитная пицца с кусочками ананаса и ветчиной",
+        "price": 11.99,
+        "image": "https://sushi-max.ru/thumb/2/rcC-jKCXQ-JXMZFWNQXR-w/r/d/a2f988c4-9caf-4597-9bd1-f16c29f3d0c8.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Маргарита",
+        "description": "Классическая пицца с помидорами и моцареллой",
+        "price": 9.99,
+        "image": "https://momentopizza.ru/upload/shop_4/2/2/0/item_220/item_220.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Четыре сыра",
+        "description": "Изысканная пицца с сырами: моцарелла, пармезан, горгонзола, дор-блю",
+        "price": 12.99,
+        "image": "https://static.pizzasushiwok.ru/images/menu_new/11-1300.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Вегетарианская",
+        "description": "Пицца с разнообразными овощами и сыром",
+        "price": 10.49,
+        "image": "https://pizzapomodoro.ru/upload/iblock/c82/c829ec35b65eb902bcfb016d5d21788d.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Мясная",
+        "description": "Насыщенная пицца с мясными начинками: ветчина, колбаса, бекон",
+        "price": 13.49,
+        "image": "https://static.pizzasushiwok.ru/images/menu_new/15t-1300.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Мексиканская",
+        "description": "Острый мексиканский вкус с перцем халапеньо и острой говядиной",
+        "price": 11.99,
+        "image": "https://суши-роллы.москва/files/products/_110.1000x1000w.jpg?b270060ab8404d879cc9655c14591326"
+    },
+    {
+        "id": 8,
+        "name": "Барбекю",
+        "description": "Пицца с кусочками копченого бекона и соусом барбекю",
+        "price": 12.49,
+        "image": "https://strezhevoy.pizzapomodoro.ru/upload/iblock/166/1662dc0cc725f8c5a83d7d4625d3038d.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Морская",
+        "description": "Пицца с морепродуктами: креветки, мидии, кальмары",
+        "price": 13.99,
+        "image": "https://chiken-pizza.ru/upload/iblock/afb/oz6nsquiyn9nl2v3yq8fu8tdiofmvoof.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Капричоза",
+        "description": "Пицца с ветчиной, артишоками, грибами и маслинами",
+        "price": 12.99,
+        "image": "https://adriano.com.ua/wp-content/uploads/2022/08/%D0%9A%D0%B0%D0%BF%D1%80%D1%96%D1%87%D1%96%D0%BE%D0%B7%D0%B0.jpeg"
+    }
+]
